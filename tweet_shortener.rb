@@ -2,9 +2,13 @@
 
 def dictionary
   dictionary = {
-    hello: "hi",
-    to, two, too: "2",
-    suite_c: "Alfred Tennyson",
-    suite_d: "Charlie Chaplin",
-    suite_e: "Crumpet the Elf"
-    }
+    "too" => "2",
+    "to" => "2",
+    "two" =>"2",
+    "four" => "4",
+    "for" => "4",
+    "be" => "b",
+    "you" => "u",
+    "at" => "@",
+    "and" => "&"
+      }
