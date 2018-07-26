@@ -16,4 +16,4 @@ end
 
 
 def word_substituter(tweets)
-  dictionary
+  tweets.
