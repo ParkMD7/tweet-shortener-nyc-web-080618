@@ -1,7 +1,7 @@
 # Write your code here.
 
-def dictionary(tweets)
-  passengers = {
+def dictionary
+  dictionary = {
     hello: "hi",
     to, two, too: "2",
     suite_c: "Alfred Tennyson",
