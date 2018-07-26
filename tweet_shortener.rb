@@ -15,6 +15,7 @@ def dictionary
 end
 
 
+
 def word_substituter(tweets)
   tweets.split.collect do |x|
     if dictionary.keys.include?(x.downcase)
@@ -34,3 +35,11 @@ def bulk_tweet_shortener(tweets)
 end
 
 
+
+def selective_tweet_shortener(tweets)
+  if tweets.length > 140
+    word_substituter(tweets)
+  else
+    nil
+  end
+end
