@@ -2,7 +2,7 @@
 
 def dictionary(tweets)
   passengers = {
-    suite_a: "Amanda Presley",
+    hello: "Amanda Presley",
     suite_b: "Seymour Hoffman",
     suite_c: "Alfred Tennyson",
     suite_d: "Charlie Chaplin",
