@@ -15,4 +15,4 @@ def dictionary
 end
 
 
-def 
+def word_substituter(dictionary, )
